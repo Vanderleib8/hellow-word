@@ -1,1 +1,1 @@
-projeto Alura.
+projeto curso alura Alura.
